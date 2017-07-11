@@ -2,3 +2,6 @@
 .DS_Store
 dist/*
 *.egg*
+
+# virtual envs
+*env/*
